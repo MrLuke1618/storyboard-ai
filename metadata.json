@@ -1,0 +1,7 @@
+{
+  "name": "Storyboard AI",
+  "description": "A comprehensive web application that helps film directors quickly transform scripts and ideas into professional shooting storyboards using AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
